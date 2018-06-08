@@ -1,6 +1,6 @@
 
 # CPPQT - Menu for Cafe
-![](https://lh6.googleusercontent.com/HMkQYlAHWlQmlzZWdgi1DcTUAqZDjKHBDLShdwz400UP2FHleI2-lgcfh_ChfTipzprt9CxlxbDZ-jjb7bzP=w1920-h967)
+![](https://image.freepik.com/vector-gratis/plantilla-de-menu-de-restaurante-en-estilo-pizarra_23-2147774740.jpg)
 
 Choose tasks whatever you want, because you have three groups:
 * Hard;
