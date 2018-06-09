@@ -1,7 +1,6 @@
 #ifndef TEXTEDITPRINTMENUVISITOR_H
 #define TEXTEDITPRINTMENUVISITOR_H
 
-
 #include "core/abstractmenuvisitor.h"
 
 class QPlainTextEdit;

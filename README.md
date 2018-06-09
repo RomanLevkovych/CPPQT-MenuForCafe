@@ -1,6 +1,8 @@
 
 
 # CPPQT - Menu for Cafe
+> **At this time, you can *build* the project *MSVC 2017* compiler**
+
 > Remember that at first, you create a **branch** from the **master** and then in that branch **push** his changes associated with the task!!! 
 
 > Don't forget the **commit** gradually make changes and not after the end of the task!

@@ -6,12 +6,10 @@
 MenuSection::MenuSection(const std::string &name)
     : AbstractMenuItem{name}
 {
-
 }
 
 MenuSection::~MenuSection()
 {
-
 }
 
 void MenuSection::addItem(std::unique_ptr<AbstractMenuItem> item)

@@ -1,40 +1,25 @@
-TEMPLATE = app
+TEMPLATE += app
 QMAKE_CXXFLAGS += -std=c++17
-<<<<<<< HEAD
-CONFIG += console
-CONFIG -= app_bundle
-CONFIG -= qt
-
-SOURCES += \
-        main.cpp \
-    abstractmenuitem.cpp \
-    menuitem.cpp \
-    menusection.cpp
-
-HEADERS += \
-    abstractmenuitem.h \
-    menuitem.h \
-    menusection.h \
-    abstractmenuvisitor.h
-=======
 QT += core gui widgets
+
+#CONFIG += console
+#CONFIG -= app_bundle
+#CONFIG -= qt
 
 include($$PWD/core/MenuForCafeCore.pri)
 
 SOURCES += \
     $$PWD/main.cpp \
-    $$PWD/mainwindow.cpp \
-    texteditprintmenuvisitor.cpp \
-    menuiterator.cpp \
-    helpervisitor.cpp
+    $$PWD/texteditprintmenuvisitor.cpp \
+    $$PWD/helpervisitor.cpp \
+    $$PWD/menuiterator.cpp \
+    $$PWD/mainwindow.cpp
 
 HEADERS += \
-    $$PWD/mainwindow.h \
-    texteditprintmenuvisitor.h \
-    menuiterator.h \
-    helpervisitor.h
+    $$PWD/texteditprintmenuvisitor.h \
+    $$PWD/helpervisitor.h \
+    $$PWD/menuiterator.h \
+    $$PWD/mainwindow.h
 
 FORMS += \
     $$PWD/mainwindow.ui
-
->>>>>>> d580f1c... Moved project to my github account. Implemented start UI page, and core part for the printing menu in the console.

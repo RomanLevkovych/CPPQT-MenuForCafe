@@ -7,7 +7,7 @@
  */
 AbstractMenuItem::AbstractMenuItem(const std::string &name)
     : mName{name}
-    ,mMenuSection{nullptr}
+    , mMenuSection{nullptr}
 {
 }
 

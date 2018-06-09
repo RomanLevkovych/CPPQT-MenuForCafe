@@ -1,8 +1,8 @@
 #ifndef ABSTRACTMENUVISITOR_H
 #define ABSTRACTMENUVISITOR_H
 
-class MenuItem;
 class MenuSection;
+class MenuItem;
 
 class AbstractMenuVisitor
 {

@@ -3,8 +3,8 @@
 
 #include "helpervisitor.h"
 
-#include <stack>
 #include <memory>
+#include <stack>
 
 class AbstractMenuItem;
 

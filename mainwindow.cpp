@@ -1,11 +1,10 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
-#include "core/consoleprintmenuvisitor.h"
-
 #include "texteditprintmenuvisitor.h"
 #include "menuiterator.h"
 
+#include "core/consoleprintmenuvisitor.h"
 #include "core/consoleprintmenuvisitor.h"
 #include "core/abstractmenuitem.h"
 #include "core/menusection.h"

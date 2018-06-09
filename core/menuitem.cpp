@@ -11,7 +11,6 @@ MenuItem::MenuItem(const std::string &name,
     , mWeight{weight}
     , mIngredients{ingredients}
 {
-
 }
 
 MenuItem::~MenuItem() {}
@@ -21,7 +20,6 @@ MenuItem::MenuItem(const std::string &name,
     : AbstractMenuItem{name}
     , mPrice{price}
 {
-
 }
 
 std::vector<std::string> MenuItem::ingredients() const
