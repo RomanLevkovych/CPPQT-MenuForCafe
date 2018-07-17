@@ -1,0 +1,43 @@
+{
+    "type": "MenuSection",
+    "title": "MENU",
+    "children": [
+	{
+	    "type": "MenuSection"
+	    "title": "Drinks",
+	    "children": [
+		{
+		    "type": "MenuItem",
+		    "title": "Beer",
+		    "price": 1.7,
+		    "description":""
+		},
+		{
+		    "type": "MenuItem",
+		    "title": "water",
+		    "price": 0.5,
+		    "description":""
+		}
+	    ]
+	},
+	{
+	    "type": "MenuSection",
+	    "title": "Food",
+	    "children": [
+		{
+		    "type": "MenuItem",
+		    "title": "potatoFree",
+		    "price": 0.7,
+		    "description": ""
+		},
+		{
+		    "type":"MenuItem",
+		    "title": "borshch",
+		    "price":2,
+		    "description":""
+		}
+	    ]
+	}
+    ]
+}
+	    
