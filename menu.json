@@ -3,7 +3,7 @@
     "title": "MENU",
     "children": [
 	{
-	    "type": "MenuSection"
+	    "type": "MenuSection",
 	    "title": "Drinks",
 	    "children": [
 		{
